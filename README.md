@@ -7,7 +7,7 @@ This mod revamps the city naming system!
 - New nations arising from rebellions are no longer always named after their capital. 
 
 # Limitations
-- Unfortunately the way this mod works means cities can still be named things like France or Germany if those are in your last names section. Be mindful of this! I'll try to remedy this with a future mod!
+- Unfortunately the way this mod works means cities can still be named things like France or Germany if those are in your last names section. Be mindful of this! I'll try to remedy this with a future JSON mod!
 
 ## Requirements
 - BepInEx 5 x64 (Mono). Download from the official BepInEx releases. https://github.com/bepinex/bepinex/releases
