@@ -15,5 +15,5 @@ This mod revamps the city naming system!
 ## Install
 1. Extract the BepInEx zip into the game folder (next to the exe). Run the game once.
 2. Extract **this mod’s zip** into the plugins location so that:
-   - BepInEx\plugins\AI Aggression Reducer.dll exists
+   - BepInEx\plugins\Overhauled City Naming System.dll exists
 3. Run the game. Check `BepInEx/LogOutput.log` for "Overhauled City Naming System loaded".
